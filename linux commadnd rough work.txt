@@ -1,0 +1,45 @@
+
+
+linux administration command
+
+1.create a file with linux command
+
+touch index.html
+vim index.html  
+
+escape:wq
+w= save
+q=quit
+
+2.create a folder
+
+mkdir fonts
+md fonts
+========================================
+
+symentaic tag
+
+
+
+
+
+
+
+============================
+element selector/tag
+
+ elementselector{
+
+ }
+
+header{
+
+}
+
+footer{
+
+}
+========================
+blocking technique
+
+boxmodel
